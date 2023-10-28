@@ -14,3 +14,4 @@ def retornaPrimo(lista):
   return listaSaida
     
 print(retornaPrimo(lista))
+
